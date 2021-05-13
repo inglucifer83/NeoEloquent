@@ -124,6 +124,10 @@ class DatabaseMigrationRepository implements MigrationRepositoryInterface
     public function createRepository()
     {
     }
+    
+    public function deleteRepository()
+    {
+    }
 
     /**
      * {@inheritdoc}
