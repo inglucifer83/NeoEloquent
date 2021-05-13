@@ -15,12 +15,12 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "illuminate/container": "^7.0",
-        "illuminate/contracts": "^7.0",
-        "illuminate/database": "^7.0",
-        "illuminate/events": "^7.0",
-        "illuminate/support": "^7.0",
-        "illuminate/pagination": "^7.0",
+        "illuminate/container": "^8.0",
+        "illuminate/contracts": "^8.0",
+        "illuminate/database": "^8.0",
+        "illuminate/events": "^8.0",
+        "illuminate/support": "^8.0",
+        "illuminate/pagination": "^8.0",
         "nesbot/carbon": "~2.0",
         "graphaware/neo4j-bolt": "dev-feature/causal-cluster-support",
         "laravel/helpers": "^1.2"
